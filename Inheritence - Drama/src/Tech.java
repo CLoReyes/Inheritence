@@ -1,5 +1,5 @@
 
-public abstract class Tech extends Behind_The_Scenes
+public class Tech extends Behind_The_Scenes
 	{
 
 	}

@@ -1,10 +1,12 @@
 
-public abstract class Drama_Program
+public class Drama_Program
 	{
 		static String show;
 		static String presents;
 		
-		public abstract void announce();
+		public void announce()
+			{
+			}
 			{
 				System.out.println("The Mullen Drama Program Presents: SNBDUIEBFk");
 			}

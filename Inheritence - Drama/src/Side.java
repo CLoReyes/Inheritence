@@ -1,5 +1,5 @@
 
-public abstract class Side extends Actor
+public class Side extends Actor
 	{
 
 	}

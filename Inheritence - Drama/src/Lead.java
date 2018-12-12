@@ -1,5 +1,5 @@
 
-public abstract class Lead extends Actor
+public class Lead extends Actor
 	{
 
 	}

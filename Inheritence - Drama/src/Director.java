@@ -1,5 +1,5 @@
 
-public abstract class Director extends Behind_The_Scenes
+public class Director extends Behind_The_Scenes
 	{
 
 	}
