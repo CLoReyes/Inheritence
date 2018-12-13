@@ -1,14 +1,13 @@
 
 public class Drama_Program
 	{
-		static String show;
-		static String presents;
+
+		public String presents;
 		
 		public void announce()
+		
 			{
-			}
-			{
-				System.out.println("The Mullen Drama Program Presents: SNBDUIEBFk");
+				System.out.println("The Mullen Theatre Program Presents: " + presents);
 			}
 		
 	

@@ -1,5 +1,9 @@
 
-public class Tech extends Behind_The_Scenes
+public class Tech extends Backstage
 	{
-
+	public void acts()
+	{
+		System.out.println("Tech be like: *moves set and without them theatre would be nothing");
+	
+	}
 	}
